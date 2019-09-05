@@ -29,3 +29,7 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+
+lib/.DS_Store
+.DS_Store
+config/.DS_Store

@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+@import "bootstrap";
+.col-12 {
+  flex: 0 0 100%;
+  max-width: 50%;
+  margin: 135px;
+  margin-left: 290px;
+  border-radius: 20px;
+  background: honeydew;
+  padding: 20px;
+}
