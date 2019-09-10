@@ -14,12 +14,14 @@
  *= require_self
  */
 @import "bootstrap";
+@import "chat_app";
+
 .col-12 {
   flex: 0 0 100%;
-  max-width: 50%;
-  margin: 135px;
-  margin-left: 290px;
+  max-width: 75%;
+  margin-left: 120px;
   border-radius: 20px;
   background: honeydew;
   padding: 20px;
+  margin-top: 25px;
 }
