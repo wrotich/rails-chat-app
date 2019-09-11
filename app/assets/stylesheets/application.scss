@@ -18,10 +18,22 @@
 
 .col-12 {
   flex: 0 0 100%;
-  max-width: 75%;
-  margin-left: 120px;
-  border-radius: 20px;
   background: honeydew;
-  padding: 20px;
   margin-top: 25px;
+  background-color: transparent;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid;
+  border-style: ridge
+}
+.bg-dark {
+  background-color: #2FB7EC !important;
+}
+.navbar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  width: 71.1em;
+  left: -15px;
 }
