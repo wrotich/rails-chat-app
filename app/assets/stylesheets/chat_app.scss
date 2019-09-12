@@ -4,4 +4,12 @@
   width:auto;
   vertical-align:middle;
 }
+.room-nav-link {
+  border: 1px solid #cce5ff;
+  background: #cce5ff;
+
+  & + .room-nav-link {
+    border-top: 0 none;
+  }
+}
 
