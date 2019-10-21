@@ -16,10 +16,12 @@
 @import "bootstrap";
 @import "chat_app";
 
+body {
+  margin-top: 25px;
+}
 .col-12 {
   flex: 0 0 100%;
   background: honeydew;
-  margin-top: 25px;
   background-color: transparent;
   border-collapse: collapse;
   border-spacing: 0;
